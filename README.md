@@ -1,2 +1,2 @@
 # DIYGuide
-A guide for student without electronic background for Do It Yourself project
+A guide for students without electronic background for Do-It-Yourself projects
